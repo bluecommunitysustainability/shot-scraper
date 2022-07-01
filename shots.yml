@@ -1,3 +1,27 @@
 - url: https://www.bluecommunity.info
   output: shot.png
   height: 800
+- url: https://landsurveyorsunited.com
+  output: lsu.png
+  height: 800
+- url: https://rss.smarketplace.org
+  output: smarketplace-rss.png
+  height: 800
+  - url: https://www.smarketplace.org
+  output: smarketplace.png
+  height: 800
+- url: https://jobs.landsurveyorsunited.org
+  output: surveyorjobs.png
+  height: 800
+  - url: https://learn.landsurveyorsunited.com
+  output: learnsurveying.png
+  height: 800
+- url: https://sustain.glide.page
+  output: sustain.png
+  height: 800
+  - url: https://bluedocs.glide.page
+  output: bluedocs.png
+  height: 800
+- url: https://app.bluecommunity.info/full
+  output: blueapp.png
+  height: 800
